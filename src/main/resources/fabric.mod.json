@@ -8,11 +8,11 @@
 		"Dr.Kvass"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/DrKvass/compressed-farm-blocks-template-1.20.4",
+		"sources": "https://github.com/DrKvass/compressed-farm-blocks-template-1.20.4"
 	},
 	"license": "MIT",
-	"icon": "assets/compressedfarmblocks/icon.png",
+	"icon22": "assets/compressedfarmblocks/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
