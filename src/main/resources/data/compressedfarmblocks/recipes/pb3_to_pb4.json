@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "foodstuffs",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":{"#": { "item": "compressedfarmblocks:3x_compressed_potato_block"}},
+  "result": {"item": "compressedfarmblocks:4x_compressed_potato_block"}
+}

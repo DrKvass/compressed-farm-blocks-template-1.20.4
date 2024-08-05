@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "foodstuffs",
+  "ingredients": [
+    {
+      "item": "compressedfarmblocks:potato_block"
+  }
+  ],
+  "result": {
+    "item": "minecraft:potato",
+    "count": 9
+  }
+}

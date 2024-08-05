@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "foodstuffs",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":{"#": { "item": "compressedfarmblocks:carrot_block"}},
+  "result": {"item": "compressedfarmblocks:1x_compressed_carrot_block"}
+}

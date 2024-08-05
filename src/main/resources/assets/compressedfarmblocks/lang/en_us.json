@@ -1,0 +1,17 @@
+{
+  "item.compressedfarmblocks.ruby": "Ruby",
+
+  "block.compressedfarmblocks.carrot_block": "Block of Carrots",
+  "block.compressedfarmblocks.1x_compressed_carrot_block": "1x Compressed Block of Carrots",
+  "block.compressedfarmblocks.2x_compressed_carrot_block": "2x Compressed Block of Carrots",
+  "block.compressedfarmblocks.3x_compressed_carrot_block": "3x Compressed Block of Carrots",
+  "block.compressedfarmblocks.4x_compressed_carrot_block": "4x Compressed Block of Carrots",
+  "block.compressedfarmblocks.potato_block": "Block of Potatos",
+  "block.compressedfarmblocks.1x_compressed_potato_block": "1x Compressed Block of Potatos",
+  "block.compressedfarmblocks.2x_compressed_potato_block": "2x Compressed Block of Potatos",
+  "block.compressedfarmblocks.3x_compressed_potato_block": "3x Compressed Block of Potatos",
+  "block.compressedfarmblocks.4x_compressed_potato_block": "4x Compressed Block of Potatos",
+
+
+  "itemgroup.compressed_farm_blocks": "Compressed Farm Blocks"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "compressedfarmblocks:block/carrot_block_top",
+    "up": "compressedfarmblocks:block/carrot_block_top",
+    "north": "compressedfarmblocks:block/carrot_block_side",
+    "east": "compressedfarmblocks:block/carrot_block_side",
+    "south": "compressedfarmblocks:block/carrot_block_side",
+    "west": "compressedfarmblocks:block/carrot_block_side",
+    "particle": "minecraft:block/pumpkin_side"
+  },
+  "render_type": "solid"
+}

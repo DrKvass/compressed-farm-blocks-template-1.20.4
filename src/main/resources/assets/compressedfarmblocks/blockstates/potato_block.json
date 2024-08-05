@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "compressedfarmblocks:block/potato_block"
+    }
+  }
+}

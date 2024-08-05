@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "foodstuffs",
+  "ingredients": [
+    {
+      "item": "compressedfarmblocks:carrot_block"
+  }
+  ],
+  "result": {
+    "item": "minecraft:carrot",
+    "count": 9
+  }
+}
