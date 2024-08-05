@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "compressedfarmblocks",
+	"version": "${version}",
+	"name": "Compressed Farm Blocks",
+	"description": "A mod making storage of farmed blocks easier",
+	"authors": [
+		"Dr.Kvass"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/compressedfarmblocks/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kvass.compressedfarmblocks.CompressedFarmBlocks"
+		],
+		"client": [
+			"net.kvass.compressedfarmblocks.CompressedFarmBlocksClient"
+		],
+		"fabric-datagen": [
+			"net.kvass.compressedfarmblocks.CompressedFarmBlocksDataGenerator"
+		]
+	},
+	"mixins": [
+		"compressedfarmblocks.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
